@@ -1,2 +1,3 @@
 # ibm-ce-simple-nodejs-base
-ibm-ce-simple-nodejs-base
+
+This is a simple Node.js IBM Code Engine base repository.
